@@ -1,3 +1,4 @@
+![alt text](https://github.com/tknishh/Data-Management-Platforms/blob/main/MongoDB/mongodb-logo-11609369386lqoc6r2ga9-removebg-preview.png?raw=true)
 # MongoDB
 
 Almost every application that we interact with within our day-to-day life is a data drive. Every bit of data is essential for both users and companies. To store the data, different databases are used. Oracle, SQL Server, PostgreSQL, and MySQL were the most used databases, but recently a dozen new databases are available and can replace MySQL.
